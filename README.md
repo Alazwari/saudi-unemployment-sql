@@ -2,7 +2,7 @@
 
 An exploratory SQL analysis of official unemployment rates in Saudi Arabia by nationality and gender, examining how the labour market changed before and after the launch of **Saudi Vision 2030** in 2016.
 
-![Saudi unemployment rate by gender, 1999–2025](images/saudi_unemployment_by_gender.png)
+![Saudi unemployment rate by gender, 1999–2025](saudi_unemployment_by_gender.png)
 
 ## Key findings
 
@@ -16,8 +16,8 @@ An exploratory SQL analysis of official unemployment rates in Saudi Arabia by na
 
 | File | Description |
 |---|---|
-| `data/saudi_unemployment_1999_2025.csv` | Annual unemployment rate (%) by nationality (Saudis, Non-Saudis, Total) and gender (Male, Female, Total) — 243 rows |
-| `data/vision_periods.csv` | Analysis periods: Pre-Vision 2030 (1999–2015), Phase 1 (2016–2020), Phase 2 (2021–2025) |
+| `saudi_unemployment_1999_2025.csv` | Annual unemployment rate (%) by nationality (Saudis, Non-Saudis, Total) and gender (Male, Female, Total) — 243 rows |
+| `vision_periods.csv` | Analysis periods: Pre-Vision 2030 (1999–2015), Phase 1 (2016–2020), Phase 2 (2021–2025) |
 
 **Source:** General Authority for Statistics (GASTAT), published on the [KAPSARC Data Portal](https://datasource.kapsarc.org/explore/dataset/unemployment-rate-for-saudis-and-non-saudis-by-sex-1999-2015/) (Public Domain). Values are rounded to two decimals.
 
